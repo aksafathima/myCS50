@@ -27,7 +27,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/aksafathima/SeaTheClick.git
+    git clone https://github.com/DAWNFM22/SeaTheClick.git
     ```
 2. **Open in Scratch**:
     - Go to [Scratch](https://scratch.mit.edu/) and create a new project.
